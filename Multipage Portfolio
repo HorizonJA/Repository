@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Judah Ajiboye</h1>
+        <img src="https://d3kqdc25i4tl0t.cloudfront.net/articles/content/543_378726_tech.hero.jpg" width="200" height="100">
+        <h1>Summary</h1>
+        <p style="font-size: 20px;">I am a hardworking and dedicated individual with experience in programming.</p>
+        <div style="border: 1px solid rgb(0, 0, 0); border-width: 1px;"></div>
+        <h1>Education</h1>
+        <ul style="font-size: 20px;">
+            <li>Horizon Science Academy Columbus High School</li>
+        </ul>
+        <div style="border: 1px solid rgb(0, 0, 0); border-width: 1px;"></div>
+        <h1>Skills</h1>
+        <p style="font-size: 20px;">Programming Skills: ⭐️⭐️⭐️⭐️⭐️</p>
+        <p style="font-size: 20px;">Communication Skills: ⭐️⭐️⭐️⭐️</p>
+        <p style="font-size: 20px;">Organizational Skills: ⭐️⭐️⭐️⭐️</p>
+        <div style="border: 1px solid rgb(0, 0, 0); border-width: 1px;"></div>
+        <h1>Awards & Certifications</h1>
+        <p style="font-size: 20px;">2nd place in Concept Schools 2023 Codeathon Challenge</p>
+    </body>
+</html>
