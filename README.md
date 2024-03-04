@@ -1,4 +1,4 @@
 # Repository
 hello
 
-https://github.com/HorizonJA/Repository/edit/main/README.md#:~:text=restauranttttttttttttttttt.html
+https://horizonja.github.io/Repository/restauranttttttttttttttttt.html
